@@ -8,7 +8,7 @@ This is a repo that saves the code of the hmath's TrigonometricFunctions.
 
 $` \sin \theta `$ will be cauclated using the formula below:
 
-$$ \sin \theta = \sum_{n=1}^{\infin}{\frac{(-1)^n}{(2n+1)!}}θ^{2n+1} $$
+$$ \sin \theta = \sum_{n=1}^{\inf}{\frac{(-1)^n}{(2n+1)!}}θ^{2n+1} $$
 
 ### Inputs
 
@@ -24,7 +24,7 @@ $$ \sin \theta = \sum_{n=1}^{\infin}{\frac{(-1)^n}{(2n+1)!}}θ^{2n+1} $$
 
 $` \cos \theta `$ will be cauclated using the formula below:
 
-$$ \cos \theta = \sum_{n=1}^{\infin}{\frac{(-1)^n}{2n!}}θ^{2n} $$
+$$ \cos \theta = \sum_{n=1}^{\inf}{\frac{(-1)^n}{2n!}}θ^{2n} $$
 
 ### Inputs
 
